@@ -1,0 +1,8 @@
+.ant-layout-sider {
+  background-color: #333;
+}
+
+
+.ant-menu-item.ant-menu-item-only-child {
+  color: rgba(255, 255, 255, 0.85);
+}
